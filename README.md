@@ -1,5 +1,5 @@
 # DE_ZoomCamp2024
-Data engeneering course 
+Data engineering course 
 
 
 This is my first DE project. 
